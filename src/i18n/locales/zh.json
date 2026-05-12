@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品中心",
+    "contact": "联系我们"
+  },
+  "language": {
+    "zh": "中",
+    "en": "EN",
+    "switch": "切换语言"
+  },
+  "home": {
+    "hero": {
+      "title": "工商业储能系统",
+      "titleHighlight": "整体解决方案",
+      "subtitle": "专注于储能系统研发与制造，提供高效、安全、智能的储能产品与服务",
+      "browseProducts": "浏览产品",
+      "contactUs": "联系我们"
+    },
+    "advantages": {
+      "title": "核心优势",
+      "subtitle": "以技术创新为驱动，为客户提供卓越的储能解决方案",
+      "items": [
+        { "title": "货源充足时效保障", "desc": "充足的库存储备，快速响应客户需求，确保项目按时交付" },
+        { "title": "高效能量转换", "desc": "先进的电力电子技术，转换效率高达95%以上" },
+        { "title": "多重安全保护", "desc": "完善的BMS管理系统，全方位保障系统安全" },
+        { "title": "智能温控系统", "desc": "精准的温度管理，延长电池使用寿命" },
+        { "title": "模块化设计", "desc": "灵活扩展，便于安装维护" }
+      ]
+    },
+    "scenarios": {
+      "title": "应用场景",
+      "items": [
+        { "title": "工商业储能", "desc": "削峰填谷，降低用电成本，提高能源利用效率" },
+        { "title": "光储充一体化", "desc": "光伏配储，实现绿色能源自给自足" },
+        { "title": "微电网系统", "desc": "离网运行，保障关键负荷供电" }
+      ]
+    },
+    "cta": {
+      "title": "了解更多产品信息",
+      "subtitle": "欢迎浏览我们的产品中心，获取详细技术参数和解决方案",
+      "button": "进入产品中心"
+    }
+  },
+  "products": {
+    "title": "产品中心",
+    "subtitle": "全系列储能产品，满足不同场景应用需求",
+    "categories": "产品分类",
+    "all": "全部产品",
+    "count": "共 {{count}} 款产品",
+    "learnMore": "了解更多",
+    "categoriesList": {
+      "liquidCooled": "液冷储能一体柜",
+      "liquidBattery": "液冷储能电池柜",
+      "airCooled": "风冷储能一体柜",
+      "airSolar": "风冷光储一体柜",
+      "container": "电池集装箱",
+      "pcs": "变流升压一体机",
+      "pack": "PACK电池模组",
+      "bms": "BMS储能电池管理系统",
+      "pcsModule": "PCS储能变流器",
+      "ems": "EMS储能能量管理系统"
+    }
+  },
+  "productDetail": {
+    "back": "返回产品列表",
+    "features": "产品特点",
+    "specs": "技术参数",
+    "cta": {
+      "title": "需要了解更多产品信息？",
+      "subtitle": "欢迎联系我们的专业团队，获取详细产品资料和技术支持",
+      "phone": "电话咨询",
+      "email": "邮件联系"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "期待与您的合作",
+    "name": "林先生",
+    "role": "业务负责人",
+    "phoneLabel": "联系电话",
+    "emailLabel": "电子邮箱",
+    "description": "欢迎来电咨询产品详情，我们将为您提供专业的储能解决方案"
+  },
+  "footer": {
+    "contact": "商务联系",
+    "phone": "电话",
+    "email": "邮箱",
+    "desc": "专业的工商业储能系统解决方案提供商",
+    "copyright": "Copyright {{year}} {{company}}. All Rights Reserved.",
+    "company": "工商业储能系统解决方案提供商"
+  },
+  "header": {
+    "companyName": "工商业储能系统解决方案提供商"
+  },
+  "titles": {
+    "home": "工商业储能系统解决方案提供商",
+    "products": "工商业储能系统解决方案提供商-产品中心",
+    "contact": "工商业储能系统解决方案提供商-联系我们",
+    "productDetail": "工商业储能系统解决方案提供商-产品详情"
+  }
+}

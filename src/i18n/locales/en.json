@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "language": {
+    "zh": "中",
+    "en": "EN",
+    "switch": "Switch Language"
+  },
+  "home": {
+    "hero": {
+      "title": "Industrial & Commercial",
+      "titleHighlight": "Energy Storage Solutions",
+      "subtitle": "Focused on energy storage R&D and manufacturing, providing efficient, safe and intelligent products",
+      "browseProducts": "Browse Products",
+      "contactUs": "Contact Us"
+    },
+    "advantages": {
+      "title": "Core Advantages",
+      "subtitle": "Driven by technological innovation to provide excellent energy storage solutions",
+      "items": [
+        { "title": "Adequate Supply & Timely Delivery", "desc": "Sufficient inventory reserves, rapid response to customer needs, ensuring on-time project delivery" },
+        { "title": "High Efficiency Conversion", "desc": "Advanced power electronics technology with conversion efficiency up to 95%" },
+        { "title": "Multi-layer Safety Protection", "desc": "Complete BMS management system for comprehensive safety protection" },
+        { "title": "Intelligent Temperature Control", "desc": "Precise temperature management to extend battery life" },
+        { "title": "Modular Design", "desc": "Flexible expansion, easy installation and maintenance" }
+      ]
+    },
+    "scenarios": {
+      "title": "Application Scenarios",
+      "items": [
+        { "title": "Industrial & Commercial", "desc": "Peak shaving and valley filling, reducing electricity costs, improving energy efficiency" },
+        { "title": "Solar-Storage-Charging", "desc": "PV with storage, achieving green energy self-sufficiency" },
+        { "title": "Microgrid System", "desc": "Off-grid operation, ensuring power supply for critical loads" }
+      ]
+    },
+    "cta": {
+      "title": "Learn More About Our Products",
+      "subtitle": "Welcome to browse our product center for detailed specifications and solutions",
+      "button": "Enter Product Center"
+    }
+  },
+  "products": {
+    "title": "Product Center",
+    "subtitle": "Full range of energy storage products for various application scenarios",
+    "categories": "Categories",
+    "all": "All Products",
+    "count": "{{count}} Products",
+    "learnMore": "Learn More",
+    "categoriesList": {
+      "liquidCooled": "Liquid Cooled ESS",
+      "liquidBattery": "Liquid Cooled Battery",
+      "airCooled": "Air Cooled ESS",
+      "airSolar": "Air Cooled Solar ESS",
+      "container": "Battery Container",
+      "pcs": "PCS & Transformer",
+      "pack": "Battery Pack Module",
+      "bms": "BMS System",
+      "pcsModule": "PCS Module",
+      "ems": "EMS System"
+    }
+  },
+  "productDetail": {
+    "back": "Back to Products",
+    "features": "Product Features",
+    "specs": "Technical Specifications",
+    "cta": {
+      "title": "Need More Product Information?",
+      "subtitle": "Welcome to contact our professional team for detailed product information",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Looking forward to working with you",
+    "name": "Mr. Lin",
+    "role": "Business Manager",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "description": "Welcome to inquire about product details, we will provide professional energy storage solutions"
+  },
+  "footer": {
+    "contact": "Business Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "desc": "Professional Industrial & Commercial Energy Storage Solutions Provider",
+    "copyright": "Copyright {{year}} {{company}}. All Rights Reserved.",
+    "company": "Industrial Energy Storage Solutions Provider"
+  },
+  "header": {
+    "companyName": "Industrial Energy Storage Solutions Provider"
+  },
+  "titles": {
+    "home": "Industrial Energy Storage Solutions",
+    "products": "Industrial Energy Storage - Products",
+    "contact": "Industrial Energy Storage - Contact",
+    "productDetail": "Industrial Energy Storage - Product Detail"
+  }
+}
